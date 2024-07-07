@@ -1,1 +1,1 @@
-# NumpyK-t-phanesi
+# NumpyKutuphanesi
